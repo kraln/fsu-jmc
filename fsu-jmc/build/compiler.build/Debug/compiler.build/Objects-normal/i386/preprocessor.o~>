@@ -1,0 +1,2 @@
+/Users/jeff/Projects/compiler/compiler/preprocessor.m: In function '+[preprocessor processLine:]':
+/Users/jeff/Projects/compiler/compiler/preprocessor.m:59: warning: initialization from distinct Objective-C type

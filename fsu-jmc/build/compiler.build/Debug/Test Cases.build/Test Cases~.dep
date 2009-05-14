@@ -1,0 +1,8 @@
+8faafe452d5d84151581610d01e21ef3 fbd47bdaf1d4093e60404f740b8cc4ba ffffffffffffffffffffffffffffffff 48644 /Users/jeff/Projects/compiler/compiler/build/compiler.build/Debug/Test Cases.build/Objects-normal/i386/symbol_table_tests.o
+8faafe4562662c1b1581610d01e26dd1 898b776fd0011d4f3cc81396c4972218 ffffffffffffffffffffffffffffffff 8724 /Users/jeff/Projects/compiler/compiler/build/compiler.build/Debug/Test Cases.build/Objects-normal/i386/tokenizer_tests.o
+8faafe452a7194421581610d01e208a6 30e348290bd096b64642dbaf3a49ea5c ffffffffffffffffffffffffffffffff 22928 /Users/jeff/Projects/compiler/compiler/build/compiler.build/Debug/Test Cases.build/Objects-normal/i386/preprocessor_tests.o
+5d94fe8356c76d01316ad2760ed5679d c540dc1bbc144e92ee9a8499850b79ef ffffffffffffffffffffffffffffffff 102 /Users/jeff/Projects/compiler/compiler/build/Debug/Test Cases.octest
+cd16bad907b7fc7b0f4be640f4b07794 3f3ff29a9fd7eee44e0d374ae0ec59a5 ffffffffffffffffffffffffffffffff 46296 /Users/jeff/Projects/compiler/compiler/build/Debug/Test Cases.octest/Contents/MacOS/Test Cases
+000000004f3bd15600000000000062cd 8faafe4564f7b2c01581610d01e2675e ffffffffffffffffffffffffffffffff 34640632 /var/folders/Cl/Cl56GXdBEhm1NOuTS1uBUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-ctxortnyseemqzgxyuppgrgrwqiq/Cocoa.h.gch
+00000000000000000000000000000000 afbdb6c0cea77f9e702c037c1a8949ac ffffffffffffffffffffffffffffffff 610 /Users/jeff/Projects/compiler/compiler/build/Debug/Test Cases.octest/Contents/Info.plist
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/jeff/Projects/compiler/compiler/build/compiler.build/Debug/Test Cases.build/Objects-normal/i386/symbol_table_tests-E2CE3169.o
